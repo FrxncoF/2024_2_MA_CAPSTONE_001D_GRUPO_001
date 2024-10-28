@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-image: none; /* Cambia esto si tienes alguna referencia al fondo */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
